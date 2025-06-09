@@ -139,8 +139,8 @@
         "size": ["S", "M", "L"],
         "color": ["Black","Blue"],
         "discount": 20,
-        "thumbnail": "https://codedev.b-cdn.net/products/sweatshirt-black.jpg",
-        "images": ["https://codedev.b-cdn.net/products/sweatshirt-black.jpg", "https://codedev.b-cdn.net/products/woman-black-shirt-giving-neutral-flirtatious-poses.jpg","https://codedev.b-cdn.net/products/woman-holding-coffee-cup-smiling.jpg"],
+        "thumbnail": "https://down-vn.img.susercontent.com/file/c7db377b177fc8e2ff75a769022dcc23",
+        "images": ["https://down-vn.img.susercontent.com/file/c7db377b177fc8e2ff75a769022dcc23", "https://down-vn.img.susercontent.com/file/c7db377b177fc8e2ff75a769022dcc23","https://down-vn.img.susercontent.com/file/c7db377b177fc8e2ff75a769022dcc23"],
         "rating": 4.5
       },
       {
@@ -152,10 +152,10 @@
         "brand": "TrendyWear",
         "price": 29.99,
         "size": ["S", "M", "L"],
-        "color": ["White"],
+        "color": ["White", "Black"],
         "discount": 15,
-        "images": ["https://codedev.b-cdn.net/products/tshirt-white.jpg", "https://codedev.b-cdn.net/products/tshirt-white.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/tshirt-white.jpg",
+        "images": ["https://vn-live-01.slatic.net/p/fa067f9c701d940ba98ccb05d2d2f438.jpg", "https://down-vn.img.susercontent.com/file/c7db377b177fc8e2ff75a769022dcc23"],
+        "thumbnail": "https://vn-live-01.slatic.net/p/fa067f9c701d940ba98ccb05d2d2f438.jpg",
         "rating": 4.5
       },
       {
